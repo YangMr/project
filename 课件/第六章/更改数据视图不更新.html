@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>更改数据视图不更新</title>
+</head>
+<body>
+	<div id="app">
+		<ul>
+			<li v-for="(item,index) in obj" :key='index'>{{item}}</li>
+		</ul>
+		<button @click='add'>添加新属性d</button>
+	</div>
+
+
+	<script type="text/javascript" src="vue.js"></script>
+	<script type="text/javascript">
+		
+		new Vue({
+			el:'#app',
+			data(){
+				return {
+					obj:{
+						'a':'我是a',
+						'b':'我是b',
+						'c':'我是c',
+					}
+				}
+			},
+			methods:{
+				add(){
+					// this.obj.d='我是d'
+					this.$set(this.obj,'d','我是d')
+					console.log(this.obj)
+				}
+			}
+		})
+	</script>
+</body>
+</html>

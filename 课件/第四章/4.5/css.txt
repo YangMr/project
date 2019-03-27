@@ -1,0 +1,29 @@
+<style lang="stylus" scoped>
+    .panelsbox
+        display flex
+        .leftpanels
+            width 30%
+            li
+                height 50px
+                line-height 50px
+                border-bottom 1px solid #fff
+                color #333
+                background #f8f8f8
+                font-size  14px
+            .active
+                background #fff
+                color #e93b3d
+        .rightpanels
+            width 70%
+            ul
+                display flex
+                flex-wrap  wrap
+                li
+                    width 50%
+                    justify-content center
+                    align-items center
+                    font-size 15px
+                    img 
+                        width 80px
+                        height  80px
+</style>
