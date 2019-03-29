@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f769bb-add3-4df5-9db4-3a7c00e69caf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sell/src/api/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sell/src/common/fonts/sell-icon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sell/src/common/fonts/sell-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sell/src/common/fonts/sell-icon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sell/src/common/fonts/sell-icon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sell/src/common/stylus/icon.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jd/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.3jingdong" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.3jingdong" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.3jingdong/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.3jingdong/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.4 jingdong" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.4 jingdong" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.4 jingdong/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.4 jingdong/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.5 jingdong" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.5 jingdong" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/.browserslistrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/课件/第二章/2.5 jingdong/src/views/About.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,34 +27,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sell/src/App.vue">
+        <entry file="file://$PROJECT_DIR$/jd/vue.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="39">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sell/build/webpack.dev.conf.js">
+        <entry file="file://$PROJECT_DIR$/jd/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sell/data.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43914">
-              <caret line="1126" column="11" selection-start-line="1126" selection-start-column="3" selection-end-line="1126" selection-end-column="11" />
-              <folding>
-                <element signature="e#39471#46130#0" />
-              </folding>
-            </state>
+            <state relative-caret-position="-351" />
           </provider>
         </entry>
       </file>
@@ -90,10 +84,12 @@
         <option value="$PROJECT_DIR$/sell/src/main.js" />
         <option value="$PROJECT_DIR$/sell/src/App.vue" />
         <option value="$PROJECT_DIR$/sell/build/webpack.dev.conf.js" />
+        <option value="$PROJECT_DIR$/jd/src/App.vue" />
+        <option value="$PROJECT_DIR$/jd/vue.config.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -105,7 +101,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -159,14 +170,17 @@
       <workItem from="1553562291003" duration="621000" />
       <workItem from="1553600002770" duration="6535000" />
       <workItem from="1553649065939" duration="43000" />
+      <workItem from="1553824519864" duration="967000" />
+      <workItem from="1553825921305" duration="228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23667000" />
+    <option name="totallyTimeSpent" value="24862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23660715" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -209,108 +223,33 @@
     <entry file="file://$PROJECT_DIR$/prox/src/prox.js" />
     <entry file="file://$PROJECT_DIR$/prox/package.json" />
     <entry file="file://$PROJECT_DIR$/sell/build/logo.png" />
-    <entry file="file://$PROJECT_DIR$/sell/build/build.js">
+    <entry file="file://$PROJECT_DIR$/sell/build/build.js" />
+    <entry file="file://$PROJECT_DIR$/sell/config/prod.env.js" />
+    <entry file="file://$PROJECT_DIR$/sell/config/dev.env.js" />
+    <entry file="file://$PROJECT_DIR$/sell/build/webpack.prod.conf.js" />
+    <entry file="file://$PROJECT_DIR$/sell/build/webpack.base.conf.js" />
+    <entry file="file://$PROJECT_DIR$/sell/src/api/api.js" />
+    <entry file="file://$PROJECT_DIR$/sell/src/router/index.js" />
+    <entry file="file://$PROJECT_DIR$/sell/package.json" />
+    <entry file="file://$PROJECT_DIR$/sell/config/index.js" />
+    <entry file="file://$PROJECT_DIR$/sell/src/common/stylus/icon.styl" />
+    <entry file="file://$PROJECT_DIR$/sell/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/sell/src/common/style.css" />
+    <entry file="file://$PROJECT_DIR$/sell/src/components/HelloWorld.vue" />
+    <entry file="file://$PROJECT_DIR$/sell/src/App.vue" />
+    <entry file="file://$PROJECT_DIR$/sell/data.json" />
+    <entry file="file://$PROJECT_DIR$/sell/build/webpack.dev.conf.js" />
+    <entry file="file://$PROJECT_DIR$/jd/src/App.vue" />
+    <entry file="file://$PROJECT_DIR$/jd/vue.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1170" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/config/prod.env.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/config/dev.env.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/build/webpack.prod.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/build/webpack.base.conf.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/src/api/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="7" column="35" lean-forward="true" selection-start-line="2" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="39">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sell/src/router/index.js">
+    <entry file="file://$PROJECT_DIR$/jd/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/src/common/stylus/icon.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="5" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#140#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/src/common/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/src/components/HelloWorld.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="101" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43914">
-          <caret line="1126" column="11" selection-start-line="1126" selection-start-column="3" selection-end-line="1126" selection-end-column="11" />
-          <folding>
-            <element signature="e#39471#46130#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sell/build/webpack.dev.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="26" />
-        </state>
+        <state relative-caret-position="-351" />
       </provider>
     </entry>
   </component>

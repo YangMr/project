@@ -3,5 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mt-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/课件/第二章/2.1 xiaod/xiaod3.x" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/课件/第二章/2.2-xiaod/xiaod3.x" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/课件/第二章/2.3jingdong" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/课件/第二章/2.4 jingdong" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/课件/第二章/2.5 jingdong" vcs="Git" />
   </component>
 </project>
