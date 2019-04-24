@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
+    "axios": "^0.18.0",
     "cube-ui": "~1.12.1",
     "vue": "^2.6.6",
     "vue-router": "^3.0.1",
