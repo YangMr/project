@@ -71,7 +71,6 @@
         },
         created() {
           api.getRank().then( response => {
-            console.log(response)
             this.ranklist = response.data;
           }).catch(error=>{
             console.log(error)

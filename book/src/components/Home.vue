@@ -15,7 +15,7 @@
         <Rank class="tab-container" @category="changeSelected"></Rank>
       </mt-tab-container-item>
       <mt-tab-container-item id="搜索">
-        搜索
+        <Search></Search>
       </mt-tab-container-item>
     </mt-tab-container>
 
@@ -42,18 +42,22 @@
 </template>
 
 <script>
+  import { Indicator } from 'mint-ui';
     // 引入书架组件
     import Bookshelf from './bookshelf/Bookshelf'
     // 引入所有分类组件
     import Bookcategory from './category/Bookcategory'
     //引入排行榜组件
     import Rank from './ranklist/Rank'
+    //引入搜索组件
+    import Search from './search/Search'
     export default {
         name: "Home",
         components : {
             Bookshelf,
             Bookcategory,
-            Rank
+            Rank,
+            Search
         },
         data : function () {
            return {

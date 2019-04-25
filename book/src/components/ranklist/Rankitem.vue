@@ -8,12 +8,13 @@
 </template>
 
 <script>
+    import util from '../../utils/util'
     export default {
         name: "Rankitem",
         props : ["rankinfo"],
         computed : {
           imgUrl(){
-            return "http://statics.zhuishushenqi.com" + this.rankinfo.cover
+            return util.staticPath + this.rankinfo.cover
           }
         }
     }
