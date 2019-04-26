@@ -21,8 +21,15 @@ export default {
   //获取模糊查询接口
   getFuzzySearch(searchWord){
     return Vue.http.get("/book/fuzzy-search?query=" + searchWord)
+  },
+  //获取分类小类别接口数据
+  getCategoryDetail () {
+    return Vue.http.get('/cats/lv2')
+  },
+  //根据分类获取小说列表接口
+  getNovelListByCat (gender, type, major, minor = '', start = 0, limit = 10) {
+    return Vue.http.get('/book/by-categories?gender=' + gender + '&type=' + type + '&major=' + major + '&minor=' + minor + '&start=' + start + '&limit=' + limit)
   }
-
 }
 
 

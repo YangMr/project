@@ -64,11 +64,14 @@
              selected : "书架",
            }
         },
-      methods : {
-          changeSelected : function (data) {
-             this.selected = data;
-          }
-      }
+        methods : {
+            changeSelected : function (data) {
+               this.selected = data;
+            }
+        },
+        mounted() {
+            this.selected = this.$store.state.title;
+        }
     }
 
 </script>

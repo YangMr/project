@@ -80,7 +80,6 @@
           }).catch(error=>{
             console.log(error);
           })
-
           this.b = util.getLocalStroageData("keyword")
         }
     }
